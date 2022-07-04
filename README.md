@@ -14,6 +14,11 @@
 [![GoDoc](https://godoc.org/github.com/rclone/rclone?status.svg)](https://godoc.org/github.com/rclone/rclone)
 [![Docker Pulls](https://img.shields.io/docker/pulls/rclone/rclone)](https://hub.docker.com/r/rclone/rclone)
 
+# Rclone使用介绍连接
+
+https://blog.csdn.net/qq_34466488/article/details/124381783
+https://www.vjsun.com/59.html
+
 # Rclone
 
 Rclone *("rsync for cloud storage")* is a command-line program to sync files and directories to and from different cloud storage providers.
